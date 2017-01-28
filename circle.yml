@@ -1,0 +1,9 @@
+machine:
+  post:
+    - pyenv global 2.7.9 3.4.2
+dependencies:
+  pre:
+    - pip install -r requirements.txt
+test:
+  pre:
+    - pytest
