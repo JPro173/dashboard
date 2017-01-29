@@ -1,2 +1,2 @@
 # dashboard
-System for holding cards
+System for holding cards.
