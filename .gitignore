@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# SQLite database file
+db.sqlite3
+
+# Selenium log file
+geckodriver.log
